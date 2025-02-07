@@ -40,7 +40,7 @@ let multiply= a*b;
 let power= a**b;
 // Example: let division;
 // Divide 'a' by 'b'.
-let devition= a/b;
+let division= a/b;
 // Step 4: Use comparison operators to compare the variables.
 // Example: let isGreaterThan;
 // Check if 'a' is greater than 'b'.
